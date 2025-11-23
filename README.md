@@ -163,9 +163,7 @@ This project is open-source.
 
 ## Contact
 
-  * **Maintainer:** [Your Name]
+  * **Maintainer:** Nima Kelidari
 
 <!-- end list -->
 
-```
-```
